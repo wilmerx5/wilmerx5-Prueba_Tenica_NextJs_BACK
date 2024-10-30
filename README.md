@@ -6,12 +6,15 @@ Este es el repositorio del backend para la aplicación. A continuación se prese
 ## Instrucciones de Ejecución
 
 1. **Clonar el Repositorio**
+ ->   git clone https://github.com/wilmerx5/wilmerx5-Prueba_Tenica_NextJs_BACK
 
-2. Instalr dependencias con npm install
-3. Ejecutar el servidor con npm start
+3. Instalr dependencias
+   -> npm install
+5. Ejecutar el servidor con
+   -> npm start
 
-   IMPORTANTE = validar que se ejecute en el puerto 3001
-4. probar la api, con una herramienta como postman o la aplicion frontend
+  | IMPORTANTE = validar que se ejecute en el puerto 3001
+7. probar la api, con una herramienta como postman o la aplicion frontend
 
 
 #Explicación Técnica
@@ -24,3 +27,4 @@ Módulos: El código está organizado en módulos, lo que facilita la escalabili
 Controladores y Servicios: Los controladores manejan las solicitudes entrantes y responden adecuadamente, mientras que los servicios encapsulan la lógica de negocio, permitiendo que los controladores se mantengan delgados y enfocados en la gestión de las solicitudes.
 
 Con esta estructura, se busca mejorar la calidad del código y facilitar futuras expansiones del proyecto.
+
