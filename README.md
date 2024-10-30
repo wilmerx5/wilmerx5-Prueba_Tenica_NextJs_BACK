@@ -10,11 +10,13 @@ Este es el repositorio del backend para la aplicación. A continuación se prese
 
 3. Instalr dependencias
    -> npm install
-5. Ejecutar el servidor con
+4. Ejecutar el servidor con
    -> npm start
 
   | IMPORTANTE = validar que se ejecute en el puerto 3001
-7. probar la api, con una herramienta como postman o la aplicion frontend
+
+  
+<p>5. probar la api, con una herramienta como postman o la aplicion frontend</p>
 
 
 #Explicación Técnica
